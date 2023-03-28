@@ -10,4 +10,21 @@
     height: 510px;
     border: 1px solid gray;
     border-radius: 8px;
+    position: relative;
+}
+
+.product-info {
+    margin-left: 15px;
+}
+
+.btn-cart {
+    background-color: brown;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+}
+
+.product-title {
+    font-size: 13px;
+    font-weight: bold;
 }
