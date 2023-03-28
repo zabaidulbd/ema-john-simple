@@ -1,0 +1,16 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #1C2B35;
+    padding: 30px;
+}
+
+.anchor {
+    text-decoration: none;
+}
+
+.anchor a {
+    margin-left: 20px;
+    color: white;
+}
